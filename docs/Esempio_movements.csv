@@ -1,0 +1,6 @@
+﻿"movimento";"data";"ordinante";"causale";"importo";"abbinato";"da_verificare";"stato"
+"M1";"2026-10-05";"Rossi";"Saldo F-101";"500,00";"500,00";"0,00";"Confermato"
+"M2";"2026-10-07";"Verdi";"Acconto F-103";"150,00";"150,00";"0,00";"Confermato"
+"M3";"2026-10-09";"Alfa";"Saldo fatture F-104 e F-105";"1200,00";"1200,00";"0,00";"Confermato"
+"M4";"2026-10-12";"Delta";"Pagamento fattura";"400,00";"400,00";"0,00";"Confermato"
+"M5";"2026-10-13";"Ordinante non identificato";"Bonifico senza riferimento";"95,00";"0,00";"95,00";"Da verificare"

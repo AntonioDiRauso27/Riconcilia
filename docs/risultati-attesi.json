@@ -1,0 +1,11 @@
+{
+  "fatture": 7,
+  "movimenti": 5,
+  "incassiEuro": 2345,
+  "confermati": 4,
+  "abbinatiEuro": 2250,
+  "incassiDaVerificareEuro": 95,
+  "residuiFattureEuro": 1350,
+  "fatturaDeltaScelta": "F-107",
+  "residuoVerdiEuro": 150
+}
